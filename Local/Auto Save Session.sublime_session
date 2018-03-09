@@ -65,8 +65,8 @@
 			},
 			"file_history":
 			[
-				"/D/Sublime_Text3/Data/Packages/User/FileHeader.sublime-settings",
 				"/D/Sublime_Text3/Data/Packages/User/SyncSettings.sublime-settings",
+				"/D/Sublime_Text3/Data/Packages/User/FileHeader.sublime-settings",
 				"/D/Sublime_Text3/Data/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
@@ -155,13 +155,13 @@
 										7,
 										226,
 										3,
-										9,
-										23,
-										18,
-										34,
-										12,
-										132,
-										191,
+										10,
+										0,
+										0,
+										40,
+										11,
+										99,
+										65,
 										113,
 										1,
 										133,
@@ -228,7 +228,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,683,661,145,1317",
+			"position": "0,2,3,-1,-1,-1,-1,683,661,145,1317",
 			"project": "",
 			"replace":
 			{
