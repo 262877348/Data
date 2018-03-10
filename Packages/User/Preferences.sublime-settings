@@ -4,5 +4,6 @@
 	[
 		"Vintage"
 	],
-	"theme": "Default.sublime-theme"
+	"theme": "Default.sublime-theme",
+	"trim_trailing_white_space_on_save": true
 }

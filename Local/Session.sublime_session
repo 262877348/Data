@@ -4,7 +4,7 @@
 		"/D/Webroot"
 	],
 	"last_version": 3143,
-	"last_window_id": 2,
+	"last_window_id": 11,
 	"log_indexing": false,
 	"settings":
 	{
@@ -15,6 +15,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"php",
+						"php\tphp"
+					]
 				]
 			},
 			"build_system_choices":
@@ -23,7 +27,7 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 104.0,
 				"last_filter": "Package Control: ",
 				"selected_items":
 				[
@@ -52,17 +56,27 @@
 			},
 			"file_history":
 			[
+				"/D/Sublime_Text3/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/D/Sublime_Text3/Data/Packages/Alignment/Base File.sublime-settings",
+				"/D/Webroot/text.html",
+				"/D/Webroot/text.php",
+				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TP5-index.sublime-snippet",
+				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TPL5-include.sublime-snippet",
+				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TPL5-if.sublime-snippet",
+				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TPL5-defined.sublime-snippet",
+				"/I/Users/Administrator/Desktop/User/Php.sublime-snippet",
+				"/D/Sublime_Text3/Data/Packages/PHP/php.sublime-snippet",
 				"/D/Sublime_Text3/Data/Packages/User/SyncSettings.sublime-settings",
 				"/D/Sublime_Text3/Data/Packages/User/FileHeader.sublime-settings",
 				"/D/Sublime_Text3/Data/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 43.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 110.0,
 				"where_history":
 				[
 				]
@@ -72,6 +86,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"+"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -79,6 +94,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -88,7 +104,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -106,7 +122,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 78.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -115,6 +131,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"text",
+						"text.html"
+					]
 				],
 				"width": 0.0
 			},
@@ -200,8 +220,12 @@
 			},
 			"file_history":
 			[
-				"/D/Webroot/text.html",
 				"/D/Webroot/text.php",
+				"/D/Sublime_Text3/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+				"/D/Sublime_Text3/Data/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
+				"/D/Sublime_Text3/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/D/Sublime_Text3/Data/Packages/Alignment/Base File.sublime-settings",
+				"/D/Webroot/text.html",
 				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TP5-index.sublime-snippet",
 				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TPL5-include.sublime-snippet",
 				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TPL5-if.sublime-snippet",
@@ -214,11 +238,11 @@
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 43.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 110.0,
 				"where_history":
 				[
 				]
@@ -228,6 +252,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"ctrl+alt",
+					"+"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -235,6 +261,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -252,7 +279,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 30.0
 			},
 			"input":
 			{
@@ -294,7 +321,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 78.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -303,6 +330,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"text",
+						"text.html"
+					]
 				],
 				"width": 0.0
 			},
