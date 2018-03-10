@@ -1,15 +1,15 @@
 {
 	"folder_history":
 	[
+		"/D/Webroot"
 	],
 	"last_version": 3143,
-	"last_window_id": 1,
+	"last_window_id": 2,
 	"log_indexing": false,
 	"settings":
 	{
-	},
-	"windows":
-	[
+		"new_window_height": 480.0,
+		"new_window_settings":
 		{
 			"auto_complete":
 			{
@@ -17,10 +17,6 @@
 				[
 				]
 			},
-			"buffers":
-			[
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -56,8 +52,164 @@
 			},
 			"file_history":
 			[
-				"/D/Sublime_Text3/Data/Packages/User/FileHeader.sublime-settings",
 				"/D/Sublime_Text3/Data/Packages/User/SyncSettings.sublime-settings",
+				"/D/Sublime_Text3/Data/Packages/User/FileHeader.sublime-settings",
+				"/D/Sublime_Text3/Data/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 175.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"php",
+						"php\tphp"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 104.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Webroot/text.html",
+				"/D/Webroot/text.php",
+				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TP5-index.sublime-snippet",
+				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TPL5-include.sublime-snippet",
+				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TPL5-if.sublime-snippet",
+				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TPL5-defined.sublime-snippet",
+				"/I/Users/Administrator/Desktop/User/Php.sublime-snippet",
+				"/D/Sublime_Text3/Data/Packages/PHP/php.sublime-snippet",
+				"/D/Sublime_Text3/Data/Packages/User/SyncSettings.sublime-settings",
+				"/D/Sublime_Text3/Data/Packages/User/FileHeader.sublime-settings",
 				"/D/Sublime_Text3/Data/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
@@ -138,7 +290,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,2,-32000,-32000,-1,-1,683,661,145,1317",
+			"position": "0,2,3,-1,-1,-1,-1,683,661,145,1317",
 			"project": "",
 			"replace":
 			{
@@ -180,7 +332,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 175.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
