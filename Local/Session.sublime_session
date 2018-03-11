@@ -220,6 +220,27 @@
 			},
 			"file_history":
 			[
+				"/D/Webroot/Ypaiyun/index.html",
+				"/D/Webroot/Mygame/application/index/view/common_base.html",
+				"/D/Webroot/Mygame/application/index/view/index_index.html",
+				"/D/Webroot/Mygame/application/index/view/common_intoHead.html",
+				"/D/Webroot/Myshop/tem/moban/ke_dz/tem/top.php",
+				"/D/Webroot/Myshop/tem/moban/ke_dz/tem/top1.php",
+				"/D/Webroot/Demo/application/index/view/oauth_authorize.html",
+				"/D/Webroot/Demo/application/index/controller/Index.php",
+				"/I/Users/Administrator/Desktop/游戏文件/windows.html",
+				"/D/Webroot/Demo/application/index/view/index_index.html",
+				"/D/Webroot/Demo/application/index/controller/Oauth.php",
+				"/D/Webroot/Demo/application/common.php",
+				"/D/Webroot/Demo/application/index/view/index_index.html.bak2.html",
+				"/D/Webroot/Test/application/index/view/index_index.html",
+				"/D/Webroot/Test/application/index/view/index_index.html.bak.html",
+				"/D/Webroot/Demo/composer.json",
+				"/D/Webroot/Demo/application/index/view/index_index.html.bak.html",
+				"/D/Webroot/Demo/application/extra/oauth.php",
+				"/D/Webroot/Demo/extend/oauth/Oauth.php",
+				"/D/Sublime_Text3/Data/Packages/User/SyncSettings.sublime-settings",
+				"/D/Sublime_Text3/Data/Packages/Sync Settings/SyncSettings.sublime-settings",
 				"/D/Webroot/text.php",
 				"/D/Sublime_Text3/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
 				"/D/Sublime_Text3/Data/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
@@ -232,7 +253,6 @@
 				"/D/Sublime_Text3/Data/Packages/ThinkPHP5/TPL5-defined.sublime-snippet",
 				"/I/Users/Administrator/Desktop/User/Php.sublime-snippet",
 				"/D/Sublime_Text3/Data/Packages/PHP/php.sublime-snippet",
-				"/D/Sublime_Text3/Data/Packages/User/SyncSettings.sublime-settings",
 				"/D/Sublime_Text3/Data/Packages/User/FileHeader.sublime-settings",
 				"/D/Sublime_Text3/Data/Packages/Package Control/Package Control.sublime-settings"
 			],
@@ -252,6 +272,27 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"http://bdimg.share.baidu.com/static/",
+					"http://bdimg.share.baidu.com/static/api/",
+					"https://static1.51cto.com/edu/plugin",
+					"https://static1.51cto.com/edu/center/",
+					" background=\"Images/ljstyle_index_05.jpg\"",
+					" background=\"Images/30px.gif\"",
+					";?>",
+					"<?php echo ",
+					"http://yourhost/user/oauth",
+					"http://yourhost/user/oauth/index",
+					"getInstance",
+					"fig['CALLBACK",
+					"nfig['AUTHORIZE",
+					"AUTHORIZE",
+					"Authorize",
+					"AUTHORIZE",
+					"Authorize",
+					"AUTHORIZE",
+					"C(\"THINK_SDK_{$this->Type}\")",
+					"APP_SECRET",
+					"APP_KEY",
 					"ctrl+alt",
 					"+"
 				],
@@ -283,7 +324,7 @@
 			},
 			"input":
 			{
-				"height": 35.0
+				"height": 42.0
 			},
 			"layout":
 			{
@@ -317,11 +358,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,683,661,145,1317",
+			"position": "0,2,3,-32000,-32000,-1,-1,683,661,145,1317",
 			"project": "",
 			"replace":
 			{
-				"height": 78.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -363,7 +404,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 175.0,
+			"side_bar_width": 422.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
