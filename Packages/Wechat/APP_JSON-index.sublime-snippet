@@ -1,0 +1,49 @@
+<snippet>
+	<content><![CDATA[{
+    "pages":[
+        "pages/index/index",
+        "pages/logs/logs"
+    ],
+    "tabBar": {
+        "color": "#999",
+        "selectedColor": "#DE4C56",
+        "backgroundColor": "#DE4C56",
+        "borderStyle": "#ffffff",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "首页",
+                "iconPath": "images/index.png",
+                "selectedIconPath": "images/index-on.png"
+            },
+            {
+                "pagePath": "pages/logs/logs",
+                "text": "广场",
+                "iconPath": "images/log.png",
+                "selectedIconPath": "images/log-on.png"
+            }
+        ],
+        "position": "bottom"
+    },
+    "networkTimeout":{
+        "request": 60000,
+        "connectSocket": 60000,
+        "uploadFile": 60000,
+        "downloadFile": 60000
+    },
+    "window": {
+        "navigationBarBackgroundColor": "#de4c56",
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "钱来钱往",
+        "backgroundColor": "#eeeeee",
+        "backgroundTextStyle": "light",
+        "enablePullDownRefresh": true,
+        "onReachBottomDistance": "50"
+    },
+    "debug":true
+}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wx-app-json</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
